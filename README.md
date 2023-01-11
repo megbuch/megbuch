@@ -9,7 +9,7 @@
 <h1></h1>
 <h3>About Me:</h3>
 <p>Hello! 👋 I'm bardIRL, otherwise known as Meghan!</p>
-<p>I'm a front-end web developer from the San Francisco Bay Area. 👩‍💻 My passion is creating art through beautiful, innovative, and engaging designs. 💡 In my free time, you can find me nerding out with some video games and playing various instruments. 🎹</p>
+<p>I'm a web developer from the San Francisco Bay Area. 👩‍💻 My passion is creating art through beautiful, innovative, and engaging designs. 💡 In my free time, you can find me nerding out with some video games and playing various instruments. 🎹</p>
  
  <h1></h1>
  <h3>Skills:</h3>
