@@ -7,7 +7,7 @@
 </div>
 <h2>About Me</h2>
 <p>Hello! 👋 I'm bardIRL, otherwise known as Meghan!</p>
-<p>I'm a self-taught web developer from the San Francisco Bay Area. 👩‍💻 My passion is creating art through beautiful, innovative, and engaging designs. 💡 In my free time, you can find me nerding out with some video games and playing various instruments. 🎹 Check out my work below!</p>
+<p>I'm a self-taught web developer from the San Francisco Bay Area. 👩‍💻 My passion is creating art through beautiful, innovative, and engaging designs. 💡 In my free time, you can find me nerding out with some video games and playing various instruments. 🎹!</p>
  
  <h2>Skills</h2>
  <ul>
