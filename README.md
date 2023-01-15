@@ -14,5 +14,8 @@
   <li> HTML5 </li>
   <li> CSS3/SASS </li>
   <li> JavaScript </li>
-  <li> ExpressJS </li>
+  <li> Node.js </li>
+  <li> Express.js </li>
+  <li> MongoDB/Mongoose </li>
+  
  </ul>
