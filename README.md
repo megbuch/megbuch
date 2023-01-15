@@ -11,8 +11,8 @@
  
  <h2>Skills</h2>
  <ul>
-  <li> HTML5 </li>
-  <li> CSS3/SASS </li>
+  <li> HTML5/CSS </li>
+  <li> SASS </li>
   <li> JavaScript </li>
   <li> Node.js </li>
   <li> Express.js </li>
