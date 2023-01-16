@@ -11,11 +11,9 @@
  
  <h2>Skills</h2>
  <ul>
-  <li> HTML5/CSS </li>
-  <li> SASS </li>
+  <li> HTML5/CSS/SASS </li>
   <li> JavaScript </li>
   <li> Node.js </li>
   <li> Express.js </li>
   <li> MongoDB/Mongoose </li>
-  
  </ul>
