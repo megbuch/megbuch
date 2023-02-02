@@ -10,10 +10,5 @@
 <p>I'm a self-taught web developer from the San Francisco Bay Area. 👩‍💻 My passion is creating engaging, meaningful, and memorable user experiences. 💡 In my free time, you can find me nerding out with some video games and playing various instruments. 🎹!</p>
  
  <h2>Skills</h2>
- <ul>
-  <li> HTML5/CSS/SASS </li>
-  <li> JavaScript </li>
-  <li> Node.js </li>
-  <li> Express.js </li>
-  <li> MongoDB/Mongoose </li>
- </ul>
+ 
+ [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,py,nodejs,react,mongodb,postgres,figma,git&theme=light)](https://skills.thijs.gg)
