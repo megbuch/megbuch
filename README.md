@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=ecf05e47jovt6ra5khj12kc3heeu3bnpkdewz4qw2yguhpql&rid=giphy.gif&ct=s" width="200">
   
-  # view my portfolio: <a href="https://meghanbucher.work">meghanbucher.work</a>
-  ##### <a href="https://linkedin.com/in/meghanbucher">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meg@meghanbucher.work
+  # view my portfolio: <a href="https://meghanbucher.work" target="_blank">meghanbucher.work</a>
+  ##### <a href="https://linkedin.com/in/meghanbucher" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meg@meghanbucher.work
 </div>
 
 
