@@ -13,6 +13,6 @@
 
 ### Skills
 
-<img align="center" width="600" src="https://skills.thijs.gg/icons?i=js,html,css,react,express,nodejs,py,django&theme=dark"><br>
-<img align="left" width="600" src="https://skills.thijs.gg/icons?i=mongodb,postgres,heroku,linux,git,github,figma,ps&&theme=dark"  width="400">
+<img align="center" width="500" src="https://skills.thijs.gg/icons?i=js,html,css,react,express,nodejs,py,django&theme=dark"><br>
+<img align="left" width="500" src="https://skills.thijs.gg/icons?i=mongodb,postgres,heroku,linux,git,github,figma,ps&&theme=dark"  width="400">
 
