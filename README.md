@@ -2,7 +2,7 @@
   
   # view my portfolio: <a href="https://meghanbucher.work" target="_blank">meghanbucher.work</a>
   ##### <a href="https://linkedin.com/in/meghanbucher" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/bardIRL" target="_blank">CodeWars</a>
-  <img align="right" width="250" src="https://media2.giphy.com/media/0FB4a2z6B3ooAUIQXS/giphy.gif?cid=ecf05e477mromhyw8ehbfjnj7gcjynyo8ytr3uf43t6bpznm&rid=giphy.gif&ct=s">
+  <img align="right" width="300" src="https://media2.giphy.com/media/0FB4a2z6B3ooAUIQXS/giphy.gif?cid=ecf05e477mromhyw8ehbfjnj7gcjynyo8ytr3uf43t6bpznm&rid=giphy.gif&ct=s">
   
 </div> 
 
