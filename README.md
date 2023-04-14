@@ -1,17 +1,18 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=ecf05e47jovt6ra5khj12kc3heeu3bnpkdewz4qw2yguhpql&rid=giphy.gif&ct=s" width="200">
   
   # view my portfolio: <a href="https://meghanbucher.work" target="_blank">meghanbucher.work</a>
   ##### <a href="https://linkedin.com/in/meghanbucher" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/bardIRL" target="_blank">CodeWars</a>
-</div>
-
+  <img align="right" width="300" src="https://media2.giphy.com/media/0FB4a2z6B3ooAUIQXS/giphy.gif?cid=ecf05e477mromhyw8ehbfjnj7gcjynyo8ytr3uf43t6bpznm&rid=giphy.gif&ct=s">
+  
+</div> 
 
 ### About Me
-<p>Hello! 👋 I'm bardIRL, otherwise known as Meghan!<br>
-I'm a full-stack developer based in the San Francisco Bay Area. 👩‍💻<br>
-My passion is creating engaging, meaningful, and memorable user experiences. 💡<br>
-In my free time, you'll find me nerding out with some video games or playing various instruments. 🎹</p>
+
+<p>Hello! I'm bardIRL, otherwise known as Meghan! 👋<br>I'm a full-stack developer based in the San Francisco Bay Area. 👩‍💻</p>
+
 
 ### Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,py,nodejs,react,mongodb,postgres,figma,git&theme=light)](https://skills.thijs.gg)
+<img align="center" width="600" src="https://skills.thijs.gg/icons?i=js,html,css,react,express,nodejs,py,django&theme=dark"><br>
+<img align="left" width="600" src="https://skills.thijs.gg/icons?i=mongodb,postgres,heroku,linux,git,github,figma,ps&&theme=dark"  width="400">
+
