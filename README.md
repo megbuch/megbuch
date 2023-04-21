@@ -2,8 +2,8 @@
  
 ### About Me
 🚀 Software Engineer @ SpaceLab<br>
-✍️ Currently working on Ledgerly Accounting<br>
-🧠 Learning TypeScript, React, & Three.js
+✍️ Currently working on v2 of my portfolio<br>
+🧠 Learning TypeScript & React
  
 #### <a href="https://meghanbucher.work" target="_blank">Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/meghanbucher" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/bardIRL" target="_blank">CodeWars</a>
     
