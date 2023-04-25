@@ -1,4 +1,4 @@
-<div align="center">
+
  
 
  
@@ -16,9 +16,9 @@
 <img align="center" width="400" src="https://skills.thijs.gg/icons?i=mongodb,postgres,heroku,linux,git,github,figma,ps&&theme=dark">
  
  
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=megbuch&show_icons=true&theme=transparent"><br>
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megbuch&hide_progress=true&theme=transparent">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=megbuch&show_icons=true&theme=transparent">
 
-</div>
+
+
 
 
