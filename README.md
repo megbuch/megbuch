@@ -9,7 +9,7 @@
 
 🚀 Software Engineer @ SpaceLab<br>
 💼 Seeking new employment opportunities!<br>
-✍️ Currently working on Open Source projects<br>
+✍️ Currently working on Exploria<br>
  
 ### Skills
 <img align="center" width="400" src="https://skills.thijs.gg/icons?i=js,html,css,react,express,nodejs,py,django&theme=dark"><br>
