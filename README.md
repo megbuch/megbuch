@@ -6,7 +6,7 @@
 
 #### <a href="https://meghanbucher.work" target="_blank">Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/meghanbucher" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/megbuch" target="_blank">CodeWars</a>
 
-I'm a full stack developer based in the San Francisco Bay Area. My passion is delivering engaging, memorable, and meaningful user experiences. Thriving in the front end, I enjoy working at the intersection of art and functionality.
+I'm a software engineer based in the San Francisco Bay Area. My passion is delivering engaging, memorable, and meaningful user experiences. Thriving in the front end, I enjoy working at the intersection of art and functionality.
 
 When I get a break from coding, you can often find me practicing the harp, piano, or guitar, or spending time with my cats, Ajax and Muse. 🐈
 
