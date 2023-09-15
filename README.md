@@ -8,7 +8,7 @@
 
 I'm a full stack developer based in the San Francisco Bay Area. My passion is delivering engaging, memorable, and meaningful user experiences. Thriving in the front end, I enjoy working at the intersection of art and functionality.
 
-When I get a break from coding, you can often find me practicing the harp, piano, or guitar, or spending time with my cats, Ajax and Ikaros. 🐈
+When I get a break from coding, you can often find me practicing the harp, piano, or guitar, or spending time with my cats, Ajax and Muse. 🐈
 
 ### Skills
 <img align="center" width="400" src="https://skills.thijs.gg/icons?i=js,html,css,react,express,nodejs,py,django&theme=dark"><br>
