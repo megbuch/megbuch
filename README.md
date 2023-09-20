@@ -11,8 +11,8 @@ I'm a software engineer based in the San Francisco Bay Area. My passion is deliv
 When I get a break from coding, you can often find me practicing the harp, piano, or guitar, or spending time with my cats, Ajax and Muse. 🐈
 
 ### Skills
-<img align="center" width="400" src="https://skills.thijs.gg/icons?i=js,html,css,react,express,nodejs,py,django&theme=dark"><br>
-<img align="center" width="400" src="https://skills.thijs.gg/icons?i=mongodb,postgres,heroku,linux,git,github,figma,ps&&theme=dark">
+<img align="center" width="500" src="https://skills.thijs.gg/icons?i=js,java,html,css,react,express,nodejs,py,django&theme=dark"><br>
+<img align="center" width="500" src="https://skills.thijs.gg/icons?i=mongodb,postgres,sqlite,heroku,linux,git,github,figma,ps&&theme=dark">
  
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=megbuch&show_icons=true&theme=transparent">
 
